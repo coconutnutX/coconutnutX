@@ -10,9 +10,8 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), 
   ![Unity](https://img.shields.io/badge/-Unity-CC00FF?style=flat-square&logo=Unity&logoColor=white)
 - 🌱 I‘m documenting my learnings on my [notebook](https://coconutnutx.github.io/).
+- 🧱 Some [projects](/projects.md) I've worked on.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sixiaoxu/)](https://www.linkedin.com/in/sixiaoxu/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coconutnutxs@gmail.com)](mailto:coconutnutxs@gmail.com)
-
-[test](/projects.md)
 
 <!--
 **coconutnutX/coconutnutX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
