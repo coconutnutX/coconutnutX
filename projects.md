@@ -1,4 +1,4 @@
-[回到简介](./README.md)
+[Back to profile](https://github.com/coconutnutX)
 
 # During undergraduate
 
