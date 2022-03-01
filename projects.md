@@ -7,6 +7,7 @@ Some projects I did/participated in
 <details>
   <summary>A recommender system 
     <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-MySQL-0B4971?style=flat&logo=MySQL&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Docker-18304C?style=flat&logo=Docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/-AzurePipelines-18304C?style=flat&logo=AzurePipelines&logoColor=white"> 
@@ -29,6 +30,7 @@ Some projects I did/participated in
 <details>
   <summary>An industrial monitoring system 
     <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-MySQL-0B4971?style=flat&logo=MySQL&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Spring-55AC33?style=flat&logo=Spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Gitlab-CF2C1E?style=flat&logo=Gitlab&logoColor=white">
   </summary>
