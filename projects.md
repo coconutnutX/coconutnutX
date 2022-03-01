@@ -11,7 +11,7 @@ Some projects I did/participated in
     <img src="https://img.shields.io/badge/-Flask-696969?style=flat&logo=Flask&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Docker-18304C?style=flat&logo=Docker&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-AzurePipelines-18304C?style=flat&logo=AzurePipelines&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-AzurePipelines-2D55D4?style=flat&logo=AzurePipelines&logoColor=white"> 
   </summary>
   
   - Internship project on news recommendation.
