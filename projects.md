@@ -8,6 +8,7 @@ Some projects I did/participated in
   <summary>A recommender system 
     <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/-MySQL-0B4971?style=flat&logo=MySQL&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Flask-696969?style=flat&logo=Flask&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Docker-18304C?style=flat&logo=Docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/-AzurePipelines-18304C?style=flat&logo=AzurePipelines&logoColor=white"> 
