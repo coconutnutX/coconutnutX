@@ -9,6 +9,9 @@ I'm learning
 - Data science <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> 
 - VR <img src="https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/-Oculus-151618?style=flat&logo=Oculus&logoColor=white">
 
+A course project
+- Distributed Algorithms: Implement broadcast algorithms base on sockets ([repo](https://github.com/coconutnutX/CS451-2021-project))
+
 # During undergraduate (2017-2021)
 
 Some projects I did/participated in
