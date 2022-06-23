@@ -2,32 +2,25 @@
 
 # During master (2021-)
 
-I'm learning
-
-- Database <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> <img src="https://img.shields.io/badge/-Hadoop-E4E80B?style=flat&logo=ApacheHadoop&logoColor=black">
-- Data science <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> 
-- Computer architecture
-
 Some course projects
 
-<details>
-  <summary>Distributed Algorithms
-    <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
-  </summary>
-  
-  - Implement broadcast algorithms based on sockets. ([repo](https://github.com/coconutnutX/CS451-2021-project))
-</details>
+- Distributed Algorithms <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white">
+  - Implement broadcast algorithms based on sockets ([repo](https://github.com/coconutnutX/CS451-2021-project))
 
-<details>
-  <summary>Virtual reality: A VR game
-    <img src="https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white">
-    <img src="https://img.shields.io/badge/-C%23-7C2297?style=flat&logo=CSharp&logoColor=white">
-    <img src="https://img.shields.io/badge/-Oculus-151618?style=flat&logo=Oculus&logoColor=white">
-  </summary>
-  
-  ![img](media/2022-vr.gif)
-</details>
+- Advanced computer architecture <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white">
+  - A cycle-by-cycle simulator of an out-of-order processor
+  - A cycle-by-cycle scheduler for a VLIW processor
 
+- Database systems <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
+  - Implement relational operators and execution models
+  - Implement data processing pipelines over Spark
+
+- Large-scale data science for real-world data <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/-Hadoop-E4E80B?style=flat&logo=ApacheHadoop&logoColor=black">
+
+- Data visualization <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Plotly-2F3C5D?style=flat&logo=Plotly&logoColor=white"> <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat&logo=vue.js&logoColor=white"> ([website](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/))
+
+- Virtual reality <img src="https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-7C2297?style=flat&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/-Oculus-151618?style=flat&logo=Oculus&logoColor=white">
+  <details><summary>A VR game</summary><img src="media/2022-vr.gif"></details>
 
 # During undergraduate (2017-2021)
 
@@ -116,5 +109,7 @@ Some projects I did/participated in
 And other small projects in
 
 - Software development <img src="https://img.shields.io/badge/-C-094184?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/-C++-094184?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/-SpringBoot-59A031?style=flat&logo=SpringBoot&logoColor=white">
+
 - Data science <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> 
+
 - Embedded system <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-RaspberryPi-A50031?style=flat&logo=RaspberryPi&logoColor=white">
