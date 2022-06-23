@@ -8,10 +8,20 @@ I'm learning
 - Big data <img src="https://img.shields.io/badge/-Hadoop-E4E80B?style=flat&logo=ApacheHadoop&logoColor=black">
 - Data science <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> 
 - Computer architecture
-- VR <img src="https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/-Oculus-151618?style=flat&logo=Oculus&logoColor=white">
 
-A course project
+Some course projects
 - Distributed Algorithms: Implement broadcast algorithms based on sockets ([repo](https://github.com/coconutnutX/CS451-2021-project))
+
+<details>
+  <summary>A VR game
+    <img src="https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white">
+    <img src="https://img.shields.io/badge/-Oculus-151618?style=flat&logo=Oculus&logoColor=white">
+    <img src="https://img.shields.io/badge/-C%23-7C2297?style=flat&logo=CSharp&logoColor=white">
+  </summary>
+  
+  ![img](media/2022-vr.gif)
+</details>
+
 
 # During undergraduate (2017-2021)
 
