@@ -15,12 +15,40 @@ Some course projects
   - Implement relational operators and execution models
   - Implement data processing pipelines over Spark
 
-- Large-scale data science for real-world data <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/-Hadoop-E4E80B?style=flat&logo=ApacheHadoop&logoColor=black">
+<details>
+  <summary>Large-scale data science for real-world data 
+    <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Hadoop-E4E80B?style=flat&logo=ApacheHadoop&logoColor=black">
+  </summary>
+  
+  - 4 homeworks about distributed data processing with Hadoop.
+  - Final project about route planning on the Swiss transportation network data using Spark clusters.
+</details>
 
-- Data visualization <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Plotly-2F3C5D?style=flat&logo=Plotly&logoColor=white"> <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat&logo=vue.js&logoColor=white"> ([website](https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/))
+<details>
+  <summary>Data visualization 
+    <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Plotly-2F3C5D?style=flat&logo=Plotly&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Vuejs-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
+    (<a href="https://com-480-data-visualization.github.io/datavis-project-2022-nomorebugs/">website</a>)
+  </summary>
+  
+  - Design and implement visualizations of several datasets about personality tests.
+  - Build a website to show interactive visualizations.
+</details>
 
-- Virtual reality <img src="https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-7C2297?style=flat&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/-Oculus-151618?style=flat&logo=Oculus&logoColor=white">
-  <details><summary>A VR game</summary><img src="media/2022-vr.gif"></details>
+<details>
+  <summary>Virtual reality 
+    <img src="https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-C%23-7C2297?style=flat&logo=CSharp&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Oculus-151618?style=flat&logo=Oculus&logoColor=white">
+  </summary>
+  
+  - Design and implement a VR game runs on Oculus Quest.
+  
+  ![img](media/2022-vr.gif)
+</details>
 
 # During undergraduate (2017-2021)
 
