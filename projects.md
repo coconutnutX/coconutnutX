@@ -4,16 +4,35 @@
 
 Some course projects
 
-- Distributed Algorithms <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white">
-  - Implement broadcast algorithms based on sockets ([repo](https://github.com/coconutnutX/CS451-2021-project))
-
-- Advanced computer architecture <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white">
+<details>
+  <summary>Advanced computer architecture 
+    <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
+    (<a href="https://github.com/coconutnutX/CS470-2022-homework1">repo</a>) 
+  </summary>
+  
   - A cycle-by-cycle simulator of an out-of-order processor
-  - A cycle-by-cycle scheduler for a VLIW processor
+</details>
 
-- Database systems <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
-  - Implement relational operators and execution models
-  - Implement data processing pipelines over Spark
+<details>
+  <summary>Distributed Algorithms 
+    <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
+    (<a href="https://github.com/coconutnutX/CS451-2021-project">repo</a>) 
+  </summary>
+  
+  - Implement broadcast algorithms based on sockets
+</details>
+
+<details>
+  <summary>Database systems 
+    <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
+    (<a href="https://github.com/coconutnutX/CS422-2022-project1">repo1</a>) 
+    (<a href="https://github.com/coconutnutX/CS422-2022-project2">repo2</a>)
+  </summary>
+  
+  1. Implement relational operators and execution models
+  2. Implement data processing pipelines over Spark
+</details>
 
 <details>
   <summary>Large-scale data science for real-world data 
