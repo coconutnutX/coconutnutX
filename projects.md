@@ -4,7 +4,7 @@
 
 Some course projects
 
-<details>
+<details open>
   <summary>Advanced computer architecture 
     <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
     (<a href="https://github.com/coconutnutX/CS470-2022-homework1">repo</a>) 
@@ -13,7 +13,7 @@ Some course projects
   - A cycle-by-cycle simulator of an out-of-order processor
 </details>
 
-<details>
+<details open>
   <summary>Distributed Algorithms 
     <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
     (<a href="https://github.com/coconutnutX/CS451-2021-project">repo</a>) 
@@ -22,7 +22,7 @@ Some course projects
   - Implement broadcast algorithms based on sockets
 </details>
 
-<details>
+<details open>
   <summary>Database systems 
     <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
@@ -153,10 +153,8 @@ Some projects I did/participated in
 
 ---
 
-And other small projects in
+And course projects in
 
 - Software development <img src="https://img.shields.io/badge/-C-094184?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/-C++-094184?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/-SpringBoot-59A031?style=flat&logo=SpringBoot&logoColor=white">
-
 - Data science <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> 
-
 - Embedded system <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-RaspberryPi-A50031?style=flat&logo=RaspberryPi&logoColor=white">
