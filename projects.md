@@ -2,12 +2,27 @@
 
 # During master (2021-)
 
+<details open>
+  <summary>Dissecting IPFS and Swarm to demystify distributed decentralized storage networks 
+    <img src="https://img.shields.io/badge/-IPFS-408D96?style=flat&logo=IPFS&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Swarm-CF5C06?style=flat&logo=Swarm&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white">
+    (<a href="https://github.com/dedis/student_22_dissecting_ipfs_swarm">code</a>) (<a href="https://www.epfl.ch/labs/dedis/wp-content/uploads/2023/01/report_2022-3-SixiaoXu-DissectingIPFSandSwarm.pdf">report</a>)
+  </summary>
+  
+  - Analysis of an IPFS gateway dataset
+  - Monitor IPFS and Swarm clients
+</details>
+
+---
+
 Some course projects
 
 <details open>
   <summary>Advanced computer architecture 
     <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
-    (<a href="https://github.com/coconutnutX/CS470-2022-homework1">repo</a>) 
+    (<a href="https://github.com/coconutnutX/CS470-2022-homework1">code</a>) 
   </summary>
   
   - A cycle-by-cycle simulator of an out-of-order processor
@@ -16,7 +31,7 @@ Some course projects
 <details open>
   <summary>Distributed Algorithms 
     <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
-    (<a href="https://github.com/coconutnutX/CS451-2021-project">repo</a>) 
+    (<a href="https://github.com/coconutnutX/CS451-2021-project">code</a>) 
   </summary>
   
   - Implement broadcast algorithms based on sockets
@@ -26,8 +41,8 @@ Some course projects
   <summary>Database systems 
     <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
-    (<a href="https://github.com/coconutnutX/CS422-2022-project1">repo1</a>) 
-    (<a href="https://github.com/coconutnutX/CS422-2022-project2">repo2</a>)
+    (<a href="https://github.com/coconutnutX/CS422-2022-project1">code1</a>) 
+    (<a href="https://github.com/coconutnutX/CS422-2022-project2">code2</a>)
   </summary>
   
   1. Implement relational operators and execution models
