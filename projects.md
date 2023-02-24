@@ -11,8 +11,8 @@
     (<a href="https://github.com/dedis/student_22_dissecting_ipfs_swarm">code</a>) (<a href="https://www.epfl.ch/labs/dedis/wp-content/uploads/2023/01/report_2022-3-SixiaoXu-DissectingIPFSandSwarm.pdf">report</a>)
   </summary>
   
-  - Analysis of an IPFS gateway dataset
-  - Monitor IPFS and Swarm clients
+  1. Analysis of an IPFS gateway dataset
+  2. Monitor IPFS and Swarm clients
 </details>
 
 ---
