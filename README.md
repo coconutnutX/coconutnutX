@@ -11,7 +11,7 @@
   ![Unity](https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white)...
 - 🧱 Some [projects](/projects.md) I've worked on.
 - 🌱 I'm documenting my learnings on my [notebook](https://coconutnutx.github.io/).
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sixiaoxu/)](https://www.linkedin.com/in/sixiaoxu/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coconutnutxs@gmail.com)](mailto:coconutnutxs@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coconutnutxs@gmail.com)](mailto:coconutnutxs@gmail.com)
 
 <!--
 **coconutnutX/coconutnutX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
