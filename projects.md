@@ -28,6 +28,16 @@ Some course projects
 </details>
 
 <details>
+  <summary>Database systems 
+    <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
+  </summary>
+  
+  - Implement relational operators and execution models
+  - Implement data processing pipelines over Spark
+</details>
+
+<details>
   <summary>Distributed Algorithms 
     <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
     (<a href="https://github.com/coconutnutX/CS451-2021-project">code</a>) 
@@ -37,13 +47,11 @@ Some course projects
 </details>
 
 <details>
-  <summary>Database systems 
-    <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
+  <summary>Concurrent Algorithms 
+    <img src="https://img.shields.io/badge/-C-151618?style=flat&logo=C&logoColor=white">
   </summary>
   
-  - Implement relational operators and execution models
-  - Implement data processing pipelines over Spark
+  - Implement Dual-versioned STM (software transactional memory)
 </details>
 
 <details>
