@@ -22,6 +22,7 @@ Some course projects
 <details>
   <summary>Advanced computer architecture 
     <img src="https://img.shields.io/badge/-Java-E66915?style=flat&logo=Java&logoColor=white"> 
+    (<a href="https://github.com/coconutnutX/CS470-2022-homework1">code</a>) 
   </summary>
   
   - A cycle-by-cycle simulator of an out-of-order processor
