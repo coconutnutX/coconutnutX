@@ -10,6 +10,7 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
   ![Unity](https://img.shields.io/badge/-Unity-696969?style=flat&logo=Unity&logoColor=white)...
 - 🧱 Some [projects](/projects.md) I've worked on.
+- 🌱 I'm documenting my learnings on my [notebook](https://coconutnutx.github.io/).
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:coconutnutxs@gmail.com)](mailto:coconutnutxs@gmail.com)
 <!-- - 🌱 I'm documenting my learnings on my [notebook](https://coconutnutx.github.io/). -->
 
