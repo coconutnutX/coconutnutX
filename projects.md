@@ -11,8 +11,8 @@
     (<a href="https://github.com/dedis/student_22_dissecting_ipfs_swarm">code</a>) (<a href="https://www.epfl.ch/labs/dedis/wp-content/uploads/2023/01/report_2022-3-SixiaoXu-DissectingIPFSandSwarm.pdf">report</a>)
   </summary>
   
-  1. Analysis of an IPFS gateway dataset
-  2. Monitor IPFS and Swarm clients
+  1. Analysis of an IPFS gateway dataset.
+  2. Monitor IPFS and Swarm clients.
 </details>
 
 ---
@@ -25,17 +25,25 @@ Some course projects
     (<a href="https://github.com/coconutnutX/CS470-2022-homework1">code</a>) 
   </summary>
   
-  - A cycle-by-cycle simulator of an out-of-order processor
+  - A cycle-by-cycle simulator of an out-of-order processor.
 </details>
 
 <details>
   <summary>Database systems 
     <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=Spark&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=apachespark&logoColor=white"> 
   </summary>
   
-  - Implement relational operators and execution models
-  - Implement data processing pipelines over Spark
+  - Implement relational operators and execution models.
+  - Implement data processing pipelines over Spark.
+</details>
+
+<details>
+  <summary>Concurrent Algorithms 
+    <img src="https://img.shields.io/badge/-C-151618?style=flat&logo=C&logoColor=white">
+  </summary>
+  
+  - Implement Dual-versioned STM (software transactional memory).
 </details>
 
 <details>
@@ -44,15 +52,16 @@ Some course projects
     (<a href="https://github.com/coconutnutX/CS451-2021-project">code</a>) 
   </summary>
   
-  - Implement broadcast algorithms based on sockets
+  - Implement broadcast algorithms based on sockets.
 </details>
 
 <details>
-  <summary>Concurrent Algorithms 
-    <img src="https://img.shields.io/badge/-C-151618?style=flat&logo=C&logoColor=white">
+  <summary>Decentralized Systems Engineering
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white"> 
   </summary>
   
-  - Implement Dual-versioned STM (software transactional memory)
+  - Built a decentralized P2P video sharing platform that allows users to share videos in a secure and trustable manner.
+  - Worked on PKI (Public Key Infrastructure) module, implemented signatures, secure message types, and secure broadcast methods.
 </details>
 
 <details>
