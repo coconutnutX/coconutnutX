@@ -68,6 +68,7 @@ Some course projects
   <summary>Large-scale data science for real-world data 
     <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Jupyter-E35D1D?style=flat&logo=Jupyter&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=apachespark&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Hadoop-E4E80B?style=flat&logo=ApacheHadoop&logoColor=black">
   </summary>
   
