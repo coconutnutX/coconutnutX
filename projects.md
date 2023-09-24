@@ -29,16 +29,6 @@ Some course projects
 </details>
 
 <details>
-  <summary>Database systems 
-    <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
-    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=apachespark&logoColor=white"> 
-  </summary>
-  
-  - Implement relational operators and execution models.
-  - Implement data processing pipelines over Spark.
-</details>
-
-<details>
   <summary>Concurrent Algorithms 
     <img src="https://img.shields.io/badge/-C-151618?style=flat&logo=C&logoColor=white">
   </summary>
@@ -53,6 +43,16 @@ Some course projects
   </summary>
   
   - Implement broadcast algorithms based on sockets.
+</details>
+
+<details>
+  <summary>Database systems 
+    <img src="https://img.shields.io/badge/-Scala-CA1E1B?style=flat&logo=Scala&logoColor=white"> 
+    <img src="https://img.shields.io/badge/-Spark-CF4216?style=flat&logo=apachespark&logoColor=white"> 
+  </summary>
+  
+  - Implement relational operators and execution models.
+  - Implement data processing pipelines over Spark.
 </details>
 
 <details>
@@ -73,6 +73,14 @@ Some course projects
   
   - 4 homeworks about distributed data processing with Hadoop.
   - Final project about route planning on the Swiss transportation network data using Spark clusters.
+</details>
+
+<details>
+  <summary>Machine learning
+      <img src="https://img.shields.io/badge/-Python-18304C?style=flat&logo=Python&logoColor=white">
+  </summary>
+
+  - Text classification.
 </details>
 
 <details>
