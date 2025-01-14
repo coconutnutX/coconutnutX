@@ -2,7 +2,7 @@
 
 # During master (2021-2024)
 
-<details open>
+<details>
   <summary>Dissecting IPFS and Swarm to demystify distributed decentralized storage networks 
     <img src="https://img.shields.io/badge/-IPFS-408D96?style=flat&logo=IPFS&logoColor=white"> 
     <img src="https://img.shields.io/badge/-Swarm-CF5C06?style=flat&logo=Swarm&logoColor=white"> 
@@ -15,7 +15,7 @@
   2. Monitor IPFS and Swarm clients.
 </details>
 
-<details open>
+<details>
   <summary>Switching between different lock mechanisms
     <img src="https://img.shields.io/badge/-C-151618?style=flat&logo=C&logoColor=white">
   </summary>
