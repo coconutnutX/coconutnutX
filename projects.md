@@ -1,6 +1,6 @@
 [Back to profile](https://github.com/coconutnutX)
 
-# During master (2021-)
+# During master (2021-2024)
 
 <details open>
   <summary>Dissecting IPFS and Swarm to demystify distributed decentralized storage networks 
@@ -13,6 +13,16 @@
   
   1. Analysis of an IPFS gateway dataset.
   2. Monitor IPFS and Swarm clients.
+</details>
+
+<details open>
+  <summary>Switching between different lock mechanisms
+    <img src="https://img.shields.io/badge/-C-151618?style=flat&logo=C&logoColor=white">
+  </summary>
+  
+  1. Investigate switching between different synchronization mechanisms, including spinlock, queue-based locks, and delegation methods utilizing per-thread arrays, ensuring the correctness of these switches.
+  2. Design and implement Swilock, altering existing mechanisms to support switching capabilities, detecting and responding to thread contention, and offering a unified API for locking and unlocking.
+  3. Develops wi-delegation and integrate it into Swilock, designing server logic for processing requests and notifying waiters, and implementing optimizations.
 </details>
 
 ---
